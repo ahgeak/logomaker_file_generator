@@ -47,6 +47,7 @@ Once you have downloaded the program files you will run the command "node index.
 
 Video to demonstrate program functionality: https://drive.google.com/file/d/1dJwkUpCJ-VjIKNaXAl5DTAW37o6H1HaZ/view 
 
+GitHub Repo: https://github.com/ahgeak/logomaker_file_generator
 
 ## Credits
 
