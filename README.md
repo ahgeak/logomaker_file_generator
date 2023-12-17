@@ -45,6 +45,9 @@ Once you have downloaded the program files you will run the command "node index.
 
 ![logomaker_screenshot](./images/Logo_Generator_screenshot.png)
 
+Video to demonstrate program functionality: https://drive.google.com/file/d/1dJwkUpCJ-VjIKNaXAl5DTAW37o6H1HaZ/view 
+
+
 ## Credits
 
 I used documentation from the mdn website at: https://developer.mozilla.org/en-US/
